@@ -2,8 +2,8 @@
 
 This project is bunch of python files which consists of python basic examples.
 
-- `hello_world.py:` _prints hello world in the terminal_  
-- `draw_shape.py:` _draws a triangle shape_    
-- `string.py:` _working with strings_
-- `number.py:` _working with numbers_
-- `user_input.py:` _getting inputs from user_
+- `hello_world.py:` prints hello world in the terminal  
+- `draw_shape.py:` draws a triangle shape    
+- `string.py:` working with strings
+- `number.py:` working with numbers
+- `user_input.py:` getting inputs from user
