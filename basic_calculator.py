@@ -26,5 +26,6 @@ elif operator == '/':
 else:
     print('Please Enter Valid Input!!')
 
+# displaying result
 print('Result: ' + str(result))
 
