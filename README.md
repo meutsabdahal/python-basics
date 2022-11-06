@@ -7,3 +7,4 @@ This project is bunch of python files which consists of python basic examples.
 - `string.py:` **working with strings**
 - `number.py:` **working with numbers**
 - `user_input.py:` **getting inputs from user**
+- `basic_calculaor:` **basic calculator for basic operation(addition, subtraction, multiplication and division)**
