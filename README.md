@@ -14,3 +14,4 @@ This project is bunch of python files which consists of python basic examples.
 - `function.py` : **function examples in python**
 - `return_statement.py` : **return statement example in python**
 - `if_statement.py` : **if else statement and comparison of numbers/variables**
+- `dictionaries.py` : **using dictionaries in python**
