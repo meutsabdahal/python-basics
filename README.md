@@ -9,4 +9,4 @@ This project is bunch of python files which consists of python basic examples.
 - `user_input.py`: **getting inputs from user**
 - `basic_calculaor`: **basic calculator for basic operation(addition, subtraction, multiplication and division)**
 - `mad_libs_game.py`: **basic mad-libs game**
-- `lists.py`: **working with lists in python**
+- `lists.py` : **working with lists in python**
