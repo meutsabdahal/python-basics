@@ -11,3 +11,4 @@ This project is bunch of python files which consists of python basic examples.
 - `mad_libs_game.py` : **basic mad-libs game**
 - `lists.py` : **working with lists in python**
 - `tuples.py` : **tuples in python**
+- `function.py` : **function examples in python**
