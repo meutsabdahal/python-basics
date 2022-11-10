@@ -17,3 +17,4 @@ This project is bunch of python files which consists of python basic examples.
 - `dictionaries.py` : **using dictionaries in python**
 - `while_loop.py` : **while loops in python**
 - `guessing_game.py` : **guessing game in python**
+- `for_loop.py` : **for loops in python**
