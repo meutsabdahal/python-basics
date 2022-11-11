@@ -19,3 +19,4 @@ This project is bunch of python files which consists of python basic examples.
 - `guessing_game.py` : **guessing game in python**
 - `for_loop.py` : **for loops in python**
 - `exponent_function.py` : **exponent functions in python**
+- `2D_lists.py` : **2D lists and nested loop in python**
