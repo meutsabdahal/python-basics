@@ -20,6 +20,5 @@ if read_file.readable():
 else:
     print('File is not readable')
 
-
 # closing the file
 read_file.close()
