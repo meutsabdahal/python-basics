@@ -22,3 +22,4 @@ This project is bunch of python files which consists of python basic examples.
 - `2D_lists.py` : **2D lists and nested loop in python**
 - `try_except.py` : **try and except in python or error handling**
 - `reading_files.py` : **reading file in python**
+- `writing_file.py` : **writing file in python**
